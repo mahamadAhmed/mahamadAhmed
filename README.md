@@ -43,7 +43,4 @@ I build database-backed web platforms from scratch and practical AI systems. My 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamadAhmed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=60a5fa&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamadAhmed&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="150" alt="Top Languages" />
-</div>
+
