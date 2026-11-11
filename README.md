@@ -1,15 +1,11 @@
-<div align="left">
+# Hi, I'm Mohammed Ahmed
 
-# Hi, I'm Mahamat Ahmat
-
-**Software Engineer & M.Sc. AI Engineering Student @ University of Passau**  
-*B.Sc. in Computer Science & Artificial Intelligence — Cairo University*
+**Software Engineer**  
+M.Sc. AI Engineering @ University of Passau | B.Sc. Computer Science & AI — Cairo University
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedgpt.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://mohamedgpt.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ahmed-96b023234)
 [![Email](https://img.shields.io/badge/Email-mahama01%40ads.uni--passau.de-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:mahama01@ads.uni-passau.de)
-
-</div>
 
 ---
 
@@ -39,13 +35,11 @@ I build database-backed web platforms from scratch and practical AI systems. My 
 
 ### Technical Stack
 
-```text
-Languages    : TypeScript, JavaScript, Python, PHP, SQL, C++
-Web & APIs   : React, Node.js, Laravel, REST APIs, Flask, Flutter
-AI & Data    : PyTorch, TensorFlow, scikit-learn, pandas, LLM Agents, MCP
-Databases    : PostgreSQL, MySQL, SQLite
-DevOps & QA  : Git, GitHub Actions (CI/CD), Docker, Linux, PHPUnit, Prometheus, Grafana
-```
+- **Languages:** TypeScript, JavaScript, Python, PHP, SQL, C++
+- **Web & APIs:** React, Node.js, Laravel, REST APIs, Flask, Flutter
+- **AI & Data:** PyTorch, TensorFlow, scikit-learn, pandas, LLM Agents, MCP
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **DevOps & QA:** Git, GitHub Actions (CI/CD), Docker, Linux, PHPUnit, Prometheus, Grafana
 
 ---
 
@@ -53,4 +47,3 @@ DevOps & QA  : Git, GitHub Actions (CI/CD), Docker, Linux, PHPUnit, Prometheus, 
   <img src="https://github-readme-stats.vercel.app/api?username=mahamadAhmed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=60a5fa&text_color=c9d1d9" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamadAhmed&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="150" alt="Top Languages" />
 </div>
-
